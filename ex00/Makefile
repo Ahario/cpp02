@@ -18,4 +18,4 @@ fclean :	clean
 
 re : fclean all clean
 
-.PHONY: all bonus clean fclean re
+.PHONY: all bonus clean fclean re%   
